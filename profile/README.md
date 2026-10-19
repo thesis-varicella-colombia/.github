@@ -2,6 +2,8 @@
 
 Esta organización forma parte de la tesis **«Análisis espacio-temporal del impacto de la vacunación contra la Varicela en Colombia»**, desarrollada por **Diego Clemente Rojas Chingate** para optar al título de **magíster en Ciencias – Estadística de la Universidad Nacional de Colombia**.
 
+**Estado del proyecto:** Este trabajo se encuentra en desarrollo. Los contenidos y resultados publicados pueden cambiar, y aún faltan análisis y materiales por incorporar.
+
 El proyecto examina las notificaciones de varicela y sus tasas entre **2007 y 2025** a partir de una base que también integra población municipal, cobertura de vacunación y datos climáticos de precipitación, temperatura y humedad.
 
 ### Repositorios
